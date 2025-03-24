@@ -13,5 +13,6 @@ export default defineConfig({
 
   site: "https://lizgore.com",
   integrations: [tailwind(), sitemap(), icon()],
-  output: "server"
+  output: "static",
+
 });
