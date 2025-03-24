@@ -2,12 +2,14 @@ import siteConfigJson from "./siteConfig.json";
 
 export interface SiteConfiguration {
   name: string;
+  subheading: string;
   bio: string;
   profilePicture: string;
   url: string;
   blog: boolean;
   iconLinks: IconLink[];
   customLinks: CustomLink[];
+  locale: string;
 }
 
 interface IconLink {

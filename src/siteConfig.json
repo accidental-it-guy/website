@@ -1,7 +1,9 @@
 {
-  "name": "Liz Gore 👾 Accidental IT Guy → Eventual Cybersec Pro 👾",
+  "name": "Liz Gore",
+  "subheading": "👾 Accidental IT Guy → Eventual Cybersec Pro 👾",
   "bio": "🔐 SANS Cyber Academy ‘24 | GSEC & GFACT | Chasing that GCIH💡 Educator turned cyber nerd | Big fan of AI, security, & making tech inclusive  🎮 Will talk your ear off about cybersecurity, BG3, & Vietnamese iced coffee 🔍 Let’s connect & hack our way to a safer internet! 🚀",
   "profilePicture": "/profile-picture.jpg",
+  "locale": "en",
   "url": "https://lizgore.com",
   "blog": true,
   "iconLinks": [
