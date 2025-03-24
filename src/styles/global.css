@@ -7,37 +7,36 @@
     color-scheme: light dark;
 
     /* replace colors from here... */
-    --light-mode-background: 240 240 240;
-    --light-mode-foreground: 0 0 0;
-    --light-mode-foreground-muted: 50 50 50;
-    --light-mode-icon-link-outline: 50 50 50;
-    --light-mode-icon-link-background: 255 255 255;
-    --light-mode-icon-link-text: 0 0 0;
-    --light-mode-icon-link-outline-hover: 0 0 0;
-    --light-mode-icon-link-background-hover: 240 240 240;
-    --light-mode-icon-link-text-hover: 0 0 0;
-    --light-mode-custom-link-outline: 50 50 50;
-    --light-mode-custom-link-background: 255 255 255;
-    --light-mode-custom-link-text: 0 0 0;
-    --light-mode-custom-link-outline-hover: 0 0 0;
-    --light-mode-custom-link-background-hover: 240 240 240;
-    --light-mode-custom-link-text-hover: 0 0 0;
-
-    --dark-mode-background: 10 10 10;
-    --dark-mode-foreground: 255 255 255;
-    --dark-mode-foreground-muted: 205 205 205;
-    --dark-mode-icon-link-outline: 205 205 205;
-    --dark-mode-icon-link-background: 0 0 0;
-    --dark-mode-icon-link-text: 255 255 255;
-    --dark-mode-icon-link-outline-hover: 255 255 255;
-    --dark-mode-icon-link-background-hover: 50 50 50;
-    --dark-mode-icon-link-text-hover: 255 255 255;
-    --dark-mode-custom-link-outline: 205 205 205;
-    --dark-mode-custom-link-background: 0 0 0;
-    --dark-mode-custom-link-text: 255 255 255;
-    --dark-mode-custom-link-outline-hover: 255 255 255;
-    --dark-mode-custom-link-background-hover: 50 50 50;
-    --dark-mode-custom-link-text-hover: 255 255 255;
+    --light-mode-background: 157 123 144;
+    --light-mode-foreground: 189 252 201;
+    --light-mode-foreground-muted: 255 199 199;
+    --light-mode-icon-link-background: 225 152 152;
+    --light-mode-icon-link-background-hover: 121 129 147;
+    --light-mode-icon-link-outline: 189 252 201;
+    --light-mode-icon-link-outline-hover: 233 201 221;
+    --light-mode-icon-link-text: 111 121 144;
+    --light-mode-icon-link-text-hover: 189 252 201;
+    --light-mode-custom-link-background: 225 152 152;
+    --light-mode-custom-link-background-hover: 121 129 147;
+    --light-mode-custom-link-outline: 189 252 201;
+    --light-mode-custom-link-outline-hover: 233 201 221;
+    --light-mode-custom-link-text: 111 121 144;
+    --light-mode-custom-link-text-hover: 189 252 201;
+    --dark-mode-background: 157 123 144;
+    --dark-mode-foreground: 189 252 201;
+    --dark-mode-foreground-muted: 255 199 199;
+    --dark-mode-icon-link-background: 225 152 152;
+    --dark-mode-icon-link-background-hover: 121 129 147;
+    --dark-mode-icon-link-outline: 189 252 201;
+    --dark-mode-icon-link-outline-hover: 233 201 221;
+    --dark-mode-icon-link-text: 111 121 144;
+    --dark-mode-icon-link-text-hover: 189 252 201;
+    --dark-mode-custom-link-background: 225 152 152;
+    --dark-mode-custom-link-background-hover: 121 129 147;
+    --dark-mode-custom-link-outline: 189 252 201;
+    --dark-mode-custom-link-outline-hover: 233 201 221;
+    --dark-mode-custom-link-text: 111 121 144;
+    --dark-mode-custom-link-text-hover: 189 252 201;
     /* ...to here */
   }
 
