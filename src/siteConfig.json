@@ -1,56 +1,56 @@
 {
-  "name": "Trevor Tyler Lee",
-  "bio": "Free, open source LinkTree alternative built with Astro & Tailwind CSS",
+  "name": "Liz Gore 👾 Accidental IT Guy → Eventual Cybersec Pro 👾",
+  "bio": "🔐 SANS Cyber Academy ‘24 | GSEC & GFACT | Chasing that GCIH💡 Educator turned cyber nerd | Big fan of AI, security, & making tech inclusive  🎮 Will talk your ear off about cybersecurity, BG3, & Vietnamese iced coffee 🔍 Let’s connect & hack our way to a safer internet! 🚀",
   "profilePicture": "/profile-picture.jpg",
-  "url": "https://trevortylerlee.com",
+  "url": "https://lizgore.com",
   "blog": true,
   "iconLinks": [
     {
       "id": "1728534577184",
-      "icon": "link",
-      "url": "https://boogerbuttcheeks.com"
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/elizabeth-gore/"
     },
     {
       "id": "1728534577185",
       "icon": "email",
-      "url": "mailto:ttl@trevortylerlee.com"
+      "url": "mailto:elsgore@gmail.com"
     },
     {
       "id": "1728534577186",
       "icon": "github",
-      "url": "https://github.com/trevortylerlee"
+      "url": "https://github.com/streetlightvulture"
     },
     {
       "id": "1728534577187",
-      "icon": "twitter",
-      "url": "https://twitter.com/boogerbuttcheek"
+      "icon": "bluesky",
+      "url": "https://bsky.app/profile/streetlightvulture.bsky.social"
+    },
+    {
+      "id": "1742755618317",
+      "icon": "tiktok",
+      "url": "https://www.tiktok.com/@streetlightvulture?_t=ZP-8uvjmXGAHFe&_r=1"
     }
   ],
   "customLinks": [
     {
       "id": "1728534585738",
-      "title": "🍌 donkey kong country on the snes",
-      "url": "https://youtu.be/7hgr-ZuzXng?si=v3dr9mu2cBL_D4ED"
+      "title": "Apply to the SANS Cyber Academy",
+      "url": "https://www.sans.org/cyber-academy/"
     },
     {
       "id": "1728534585739",
-      "title": " Best macOS apps",
-      "url": "https://macintoshapps.com"
+      "title": "My GSEC Awesome List ",
+      "url": "https://github.com/streetlightvulture/GSEC-AwesomeList"
     },
     {
       "id": "1728534585740",
-      "title": "💕 36 Questions To Fall In Love",
-      "url": "https://thirtysixquestions.org"
+      "title": "Extracurricular Reading - OSINT Techniques by Michael Bazzell",
+      "url": "https://inteltechniques.com/book1.html"
     },
     {
-      "id": "1728534585741",
-      "title": "SuperWeb Themes",
-      "url": "https://superwebthemes.com"
-    },
-    {
-      "id": "1728534585742",
-      "title": "♥ Donate",
-      "url": "https://donate.stripe.com/aEU6ow7VEf7u7sseUU"
+      "id": "1742760404233",
+      "title": "Join Me @ WiCyS 2025 in Dallas | April 2-5",
+      "url": "https://www.wicys.org/events/wicys-2025/"
     }
   ]
 }
