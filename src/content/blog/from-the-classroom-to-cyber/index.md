@@ -1,5 +1,5 @@
 ---
-title: From the Classroom to Cyber: My Journey from Teaching to Tech
+title: From the Classroom to Cyber - My Journey from Teaching to Tech
 description: A former educator transitions into cybersecurity at age 40
 publicationDate: 2025-03-21
 ---
