@@ -1,9 +1,9 @@
 ---
 title: 10 Things I've Learned as a Cybersecurity Newbie
 description: I wish someone told me this sooner...
-publicationDate: 2025-02-03
-image: ./metamorphosis.jpg
-imageAlt: Eggs, larva, pupa, adult.
+publicationDate: 2025-01-16
+image: ./blogphoto1.jpg
+imageAlt: Vibrant digital illustration of a woman with pink hair studying cybersecurity.
 ---
 
 # 10 Things I’ve Learned as a Cybersecurity Newbie

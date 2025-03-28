@@ -1,7 +1,9 @@
 ---
 title: From the Classroom to Cyber - My Journey from Teaching to Tech
 description: A former educator transitions into cybersecurity at age 40
-publicationDate: 2025-03-21
+publicationDate: 2025-02-22
+image: ./blogimage2.png
+imageAlt: Vibrant digital illustration of the back of a woman with pink hair using the terminal.
 ---
 
 # From the Classroom to Cyber: My Journey from Teaching to Tech
