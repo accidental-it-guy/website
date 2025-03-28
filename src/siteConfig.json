@@ -35,6 +35,12 @@
   ],
   "customLinks": [
     {
+      "id": "1728534577184",
+      "title": "🛣️ My Certification Roadmap 🗺️",
+      "url": "/roadmap"
+    },
+
+    {
       "id": "1728534585738",
       "title": "Apply to the SANS Cyber Academy",
       "url": "https://www.sans.org/cyber-academy/"

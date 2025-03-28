@@ -4,6 +4,8 @@ import sitemap from "@astrojs/sitemap";
 
 import icon from "astro-icon";
 
+import react from '@astrojs/react';
+
 
 // https://astro.build/config
 export default defineConfig({
@@ -12,7 +14,7 @@ export default defineConfig({
   },
 
   site: "https://lizgore.com",
-  integrations: [tailwind(), sitemap(), icon()],
+  integrations: [tailwind(), sitemap(), icon(), react()],
   output: "static",
 
 });
