@@ -1,7 +1,7 @@
 ---
-title: Preparing for WiCyS - 
-description: 
-publicationDate: 2025-02-22
+title: Preparing for WiCyS - What I'm Doing to Make the Most of the Conference
+description: Baby's First WiCyS Conference
+publicationDate: 2025-03-30
 image: ./blogphoto5.png
 imageAlt: Vibrant digital illustration of the back of a woman with pink hair preparing for her first WiCyS conference on a laptop
 ---
