@@ -7,36 +7,36 @@
     color-scheme: light dark;
 
     /* replace colors from here... */
-    --light-mode-background: 157 123 144;
-    --light-mode-foreground: 189 252 201;
-    --light-mode-foreground-muted: 255 199 199;
-    --light-mode-icon-link-background: 225 152 152;
-    --light-mode-icon-link-background-hover: 121 129 147;
-    --light-mode-icon-link-outline: 189 252 201;
-    --light-mode-icon-link-outline-hover: 233 201 221;
-    --light-mode-icon-link-text: 111 121 144;
-    --light-mode-icon-link-text-hover: 189 252 201;
-    --light-mode-custom-link-background: 225 152 152;
-    --light-mode-custom-link-background-hover: 121 129 147;
-    --light-mode-custom-link-outline: 189 252 201;
-    --light-mode-custom-link-outline-hover: 233 201 221;
-    --light-mode-custom-link-text: 111 121 144;
-    --light-mode-custom-link-text-hover: 189 252 201;
-    --dark-mode-background: 157 123 144;
-    --dark-mode-foreground: 189 252 201;
-    --dark-mode-foreground-muted: 255 199 199;
-    --dark-mode-icon-link-background: 225 152 152;
-    --dark-mode-icon-link-background-hover: 121 129 147;
-    --dark-mode-icon-link-outline: 189 252 201;
-    --dark-mode-icon-link-outline-hover: 233 201 221;
-    --dark-mode-icon-link-text: 111 121 144;
-    --dark-mode-icon-link-text-hover: 189 252 201;
-    --dark-mode-custom-link-background: 225 152 152;
-    --dark-mode-custom-link-background-hover: 121 129 147;
-    --dark-mode-custom-link-outline: 189 252 201;
-    --dark-mode-custom-link-outline-hover: 233 201 221;
-    --dark-mode-custom-link-text: 111 121 144;
-    --dark-mode-custom-link-text-hover: 189 252 201;
+    --light-mode-background: 254 201 215;
+--light-mode-foreground: 121 211 190;
+--light-mode-foreground-muted: 57 184 154;
+--light-mode-icon-link-background: 185 238 225;
+--light-mode-icon-link-background-hover: 121 211 190;
+--light-mode-icon-link-outline: 57 184 154;
+--light-mode-icon-link-outline-hover: 255 88 131;
+--light-mode-icon-link-text: 255 88 131;
+--light-mode-icon-link-text-hover: 185 238 225;
+--light-mode-custom-link-background: 121 211 190;
+--light-mode-custom-link-background-hover: 185 238 225;
+--light-mode-custom-link-outline: 255 88 131;
+--light-mode-custom-link-outline-hover: 57 184 154;
+--light-mode-custom-link-text: 185 238 225;
+--light-mode-custom-link-text-hover: 255 88 131;
+--dark-mode-background: 57 184 154;
+--dark-mode-foreground: 255 145 173;
+--dark-mode-foreground-muted: 254 201 215;
+--dark-mode-icon-link-background: 121 211 190;
+--dark-mode-icon-link-background-hover: 255 88 131;
+--dark-mode-icon-link-outline: 185 238 225;
+--dark-mode-icon-link-outline-hover: 254 201 215;
+--dark-mode-icon-link-text: 254 201 215;
+--dark-mode-icon-link-text-hover: 185 238 225;
+--dark-mode-custom-link-background: 255 88 131;
+--dark-mode-custom-link-background-hover: 121 211 190;
+--dark-mode-custom-link-outline: 254 201 215;
+--dark-mode-custom-link-outline-hover: 185 238 225;
+--dark-mode-custom-link-text: 185 238 225;
+--dark-mode-custom-link-text-hover: 254 201 215;
     /* ...to here */
   }
 

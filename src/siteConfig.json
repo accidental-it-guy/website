@@ -1,7 +1,7 @@
 {
   "name": "Liz Gore",
-  "subheading": "👾 Accidental IT Guy → Eventual Cybersec Pro 👾",
-  "bio": "🔐 SANS Cyber Academy ‘24 | GSEC & GFACT | Chasing that GCIH💡 Educator turned cyber nerd | Big fan of AI, security, & making tech inclusive  🎮 Will talk your ear off about astrology, BG3, & Vietnamese iced coffee 🔍 Let’s connect & hack our way to a safer internet! 🚀",
+  "subheading": "👾 Accidental IT Guy → Cybersec Pro 👾",
+  "bio": "Proud SANS Cyber Academy Alum 2024-2025 | GCIH, GSEC, GFACT   Educator turned cyber nerd for security awareness & inclusivity in tech 🎮 Will talk your ear off about coffee, Baldur's Gate 3, & astrology 🔮",
   "profilePicture": "/profile-picture.jpg",
   "locale": "en",
   "url": "https://lizgore.com",
@@ -30,7 +30,7 @@
     {
       "id": "1742755618317",
       "icon": "tiktok",
-      "url": "https://www.tiktok.com/@streetlightvulture?_t=ZP-8uvjmXGAHFe&_r=1"
+      "url": "https://www.tiktok.com/@accidental.it.guy"
     }
   ],
   "customLinks": [
@@ -48,7 +48,7 @@
     {
       "id": "1728534585739",
       "title": "🔥 My GSEC Awesome List 💯",
-      "url": "https://github.com/streetlightvulture/GSEC-AwesomeList"
+      "url": "https://github.com/accidental-it-guy/GSEC-AwesomeList"
     },
     {
       "id": "1728534585740",
@@ -57,8 +57,8 @@
     },
     {
       "id": "1742760404233",
-      "title": "✈️ Join Me @ WiCyS 2025 in Dallas | April 1-5 💅",
-      "url": "https://www.wicys.org/events/wicys-2025/"
+      "title": "✈️ Join Me @ SANS CloudSecNext 2025 in Denver | Oct 2-9 💅",
+      "url": "https://www.sans.org/cyber-security-training-events/cloudsecnext-summit-2025"
     }
   ]
 }
