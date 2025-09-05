@@ -35,35 +35,39 @@
   ],
   "customLinks": [
     {
+      "id": "1742760404233",
+      "title": "✈️ Join Me @ SANS CloudSecNext 2025 in Denver | Oct 2-9 💅",
+      "url": "https://www.sans.org/cyber-security-training-events/cloudsecnext-summit-2025"
+    },
+
+    {
       "id": "1728534577184",
       "title": "🛣️ My Certification Roadmap 🗺️",
       "url": "/roadmap"
     },
 
     {
-      "id": "1728534585738",
-      "title": "✏️ Apply to the SANS Cyber Academy 💻",
-      "url": "https://www.sans.org/cyber-academy/"
-    },
-    {
-      "id": "1728534585739",
+      "id": "1728534585741",
       "title": "💡 My GCIH Awesome List 🖧",
       "url": "https://github.com/accidental-it-guy/GCIH-AwesomeList"
     },
+
     {
       "id": "1728534585739",
       "title": "🔥 My GSEC Awesome List 💯",
       "url": "https://github.com/accidental-it-guy/GSEC-AwesomeList"
     },
+
     {
       "id": "1728534585740",
       "title": "📚 Extracurricular Reading - OSINT Techniques 🔎",
       "url": "https://inteltechniques.com/book1.html"
     },
+    
     {
-      "id": "1742760404233",
-      "title": "✈️ Join Me @ SANS CloudSecNext 2025 in Denver | Oct 2-9 💅",
-      "url": "https://www.sans.org/cyber-security-training-events/cloudsecnext-summit-2025"
+      "id": "1728534585738",
+      "title": "✏️ Apply to the SANS Cyber Academy 💻",
+      "url": "https://www.sans.org/cyber-academy/"
     }
   ]
 }
