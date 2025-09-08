@@ -1,7 +1,7 @@
 ---
 title: Using AI as Your Digital Swiss Army Knife (Not Your Digital Brain)
 description: The Ethics of Using AI
-publicationDate: 2025-08-03
+publicationDate: 2025-07-05
 image: ./bravelittletoasterai.png
 imageAlt: Vibrant comicbook illustration of a woman with a pink buzzcut becoming best friends with a sentient toaster.
 ---

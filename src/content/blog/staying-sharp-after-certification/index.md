@@ -1,7 +1,7 @@
 ---
 title: Staying Sharp After Certification
 description: Staying current isn't optional, it's survival.
-publicationDate: 2025-09-01
+publicationDate: 2025-08-01
 image: ./stayingsharpaftercerts.png
 imageAlt: Vibrant digital illustration of a tattooed woman with pink a pink buzzcut in left frame procrastinating by playing videos and then the same tattooed woman with a pink buzzcut in the right frame actually stuyding cybersecurity. 3 arrows are in the middle of the image between the two frames.
 ---
