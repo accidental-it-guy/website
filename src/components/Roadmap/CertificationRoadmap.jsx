@@ -1,16 +1,16 @@
 import React from 'react';
 import { Shield, CheckCircle, Clock, Trophy, Award, Cpu, Database, Cloud, Server, Lock } from 'lucide-react';
 
-// Custom color theme based on provided CSS variables
+// Custom color theme matching lizgore.com main page colors
 const theme = {
   background: 'rgb(254, 201, 215)',
-  foreground: 'rgb(255, 145, 173)',
-  foregroundMuted: 'rgb(255, 199, 199)',
+  foreground: 'rgb(121, 211, 190)',
+  foregroundMuted: 'rgb(57, 184, 154)',
   linkBackground: 'rgb(185, 238, 225)',
   linkBackgroundHover: 'rgb(121, 211, 190)',
-  linkOutline: 'rgb(255, 88, 131)',
-  linkOutlineHover: 'rgb(233, 201, 221)',
-  linkText: 'rgb(57, 184, 154)',
+  linkOutline: 'rgb(57, 184, 154)',
+  linkOutlineHover: 'rgb(255, 88, 131)',
+  linkText: 'rgb(255, 88, 131)',
   linkTextHover: 'rgb(185, 238, 225)',
 };
 
@@ -24,7 +24,7 @@ const CertificationRoadmap = () => {
       status: 'completed',
       date: '2024-11-26',
       icon: <Cpu size={24} />,
-      description: "The GIAC Foundational Cybersecurity Technologies (GFACT) certification validates a practitioner's knowledge of essential foundational cybersecurity concepts. GFACT-certified professionals are familiar with practical skills in computers, technology, and security fundamentals that are needed to kickstart a career in cybersecurity.",
+      description: "Validates knowledge of essential cybersecurity fundamentals and practical security skills.",
       difficulty: 1,
     },
     {
@@ -34,7 +34,7 @@ const CertificationRoadmap = () => {
       status: 'completed',
       date: '2025-02-24',
       icon: <Server size={24} />,
-      description: "The GIAC Security Essentials (GSEC) certification validates a practitioner's knowledge of information security beyond simple terminology and concepts. GSEC certification holders are demonstrating that they are qualified for hands-on IT systems roles with respect to security tasks.",
+      description: "Demonstrates hands-on IT security skills beyond basic terminology and concepts.",
       difficulty: 2,
     },
     {
@@ -44,7 +44,17 @@ const CertificationRoadmap = () => {
       status: 'completed',
       date: '2025-05-23',
       icon: <Shield size={24} />,
-      description: "The GIAC Incident Handler (GCIH) certification validates a practitioner's ability to detect, respond, and resolve computer security incidents using a wide range of essential security skills. GCIH certification holders have the knowledge needed to manage security incidents by understanding common attack techniques, vectors and tools, as well as defend against and respond to such attacks when they occur.",
+      description: "Validates incident detection, response, and resolution skills for managing security incidents.",
+      difficulty: 3,
+    },
+    {
+      id: 'gx-ih',
+      name: 'GIAC Exploit Researcher and Advanced Penetration Tester (GX-IH)',
+      category: 'Intermediate',
+      status: 'planned',
+      date: '2025-12-15',
+      icon: <Shield size={24} />,
+      description: 'Validates advanced penetration testing and exploit development skills for complex security assessments.',
       difficulty: 3,
     },
     {
@@ -85,6 +95,16 @@ const CertificationRoadmap = () => {
       date: '2026-03-28',
       icon: <Cloud size={24} />,
       description: 'Validates expertise in AWS security services and implementations',
+      difficulty: 4,
+    },
+    {
+      id: 'gx-cs',
+      name: 'GIAC Certified Forensic Analyst (GX-CS)',
+      category: 'Advanced',
+      status: 'planned',
+      date: '2026-03-15',
+      icon: <Database size={24} />,
+      description: 'Validates advanced digital forensics and incident response skills for complex investigations.',
       difficulty: 4,
     }
   ];
