@@ -1,12 +1,12 @@
 ---
-title: How I Ransomed My Husband for a Dog
+title: How I Ransomwared My Husband for a Dog
 description: A SANS grad's journey from student to cloud security red teamer
 publicationDate: 2025-09-25
 image: ./ransomdog.png
 imageAlt: Vibrant digital illustration of a woman with pink hair hacking into a computer with a cute puppy on the screen
 ---
 
-# How I Ransomed My Husband for a Dog
+# How I Ransomwared My Husband for a Dog
 
 *A SANS grad's journey from student to cloud security red teamer*
 
@@ -62,7 +62,7 @@ My demands? Me and the kid want to adopt a dog. 🐕
 
 The beautiful thing was watching Jared work from the blue team side. He was using DuckDB, Tailpipe, and his own tool called Corkscrew to try to detect my activities. Some attacks he caught immediately, others flew completely under the radar. We kept score throughout the whole thing - final tally was Defender: 3, Attacker: 5.
 
-Spoiler alert: shart.cloud paid the ransom. Meet Rue, our French Bulldog who is absolutely worth every encrypted backup. 🥰
+Spoiler alert: shart.cloud paid the ransom. We adopted Rue, a rescue French Bulldog who is absolutely worth every encrypted backup. 🥰
 
 ## The Real Learning Happens in the Reflection
 
@@ -104,4 +104,4 @@ The magic really isn't in the complexity - it's in the curiosity.
 
 *Want to try the shart.cloud CTF when it releases? Check out our website at shart.cloud or connect with us on LinkedIn. And if you're going to be at SANS CloudSecNext 2025 in Denver, come say hi after our talk - I'll probably need a pep talk and maybe some validation that we didn't just embarrass ourselves in front of the entire cloud security community.*
 
-*Also, dog pics are always welcome. Rue demands tribute.*
+*ALso, dog pics are always welcome. Rue demands tribute.*
